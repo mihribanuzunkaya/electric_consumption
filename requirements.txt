@@ -1,0 +1,10 @@
+matplotlib==3.6.2
+mplcursors==0.5.2
+numpy==1.23.3
+pandas==1.5.1
+plotly==5.11.0
+Pygments==2.13.0
+pymongo==4.3.3
+seaborn==0.12.1
+streamlit==1.15.1
+values==2020.12.3
